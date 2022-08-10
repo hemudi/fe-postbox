@@ -1,8 +1,16 @@
-# **📮 Javascript-Postbox**
+# **📮 Javascript-Postbox [[ DEMO ]](https://postbox-ooh.herokuapp.com/)**
+> 랜덤으로 그냥 마을과 우체통을 가진 마을을 생성한 뒤 DOM 탐색을 이용하여 우체통을 가진 마을을 찾는 애플리케이션 개발
 
 ![](https://user-images.githubusercontent.com/34249911/157412908-a9efc305-480e-4544-95d9-342c4b6581a1.JPG)
 
 ### **With... [🍀Oliver](https://github.com/jthw1005) [🦉Owl](https://github.com/bukim0329) [🐹Hemdi](https://github.com/hemudi)**
+
+## 📌 KeyPoints
+- DOM API
+- 화면 좌표 탐색
+- 정렬, 탐색 알고리즘
+- Node.js
+- 
 
 ---
 
